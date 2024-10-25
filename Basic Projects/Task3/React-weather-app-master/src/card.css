@@ -1,0 +1,7 @@
+.card{
+    /* margin-top: 12px;
+    margin-bottom: 12px; */
+    margin: 12px;
+    background: rgba(255, 255, 255, 0.2) !important;
+    color: white !important;
+}

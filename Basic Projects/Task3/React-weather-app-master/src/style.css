@@ -1,0 +1,29 @@
+.conditions{
+    margin: auto;
+    max-width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.mainContainer{
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 12px;
+}
+body{
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: white;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.search input{
+    background: white;
+    border-radius: 6px;
+}
